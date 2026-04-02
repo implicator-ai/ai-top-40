@@ -1,0 +1,210 @@
+{
+  "version": 1,
+  "chart_date": "2026-03-28",
+  "next_update": "2026-04-04",
+  "generated_at": "2026-04-02T20:00:17Z",
+  "attribution": {
+    "text": "presented by implicator.ai",
+    "url": "https://implicator.ai/ai-top-40/"
+  },
+  "models": [
+    {
+      "rank": 1,
+      "name": "Claude Opus 4.6",
+      "lab": "Anthropic",
+      "score": 100.0,
+      "prev_rank": 1,
+      "best_position": 1,
+      "weeks_on_chart": 12,
+      "is_new": false,
+      "is_open_weight": false
+    },
+    {
+      "rank": 2,
+      "name": "Gemini 3 Pro",
+      "lab": "Google DeepMind",
+      "score": 96.13608162637904,
+      "prev_rank": 2,
+      "best_position": 2,
+      "weeks_on_chart": 12,
+      "is_new": false,
+      "is_open_weight": false
+    },
+    {
+      "rank": 3,
+      "name": "Gemini 2.5 Pro",
+      "lab": "Google DeepMind",
+      "score": 71.29108414968015,
+      "prev_rank": 3,
+      "best_position": 3,
+      "weeks_on_chart": 12,
+      "is_new": false,
+      "is_open_weight": false
+    },
+    {
+      "rank": 4,
+      "name": "Qwen 3 235B",
+      "lab": "Alibaba",
+      "score": 69.42546190798234,
+      "prev_rank": 4,
+      "best_position": 4,
+      "weeks_on_chart": 12,
+      "is_new": false,
+      "is_open_weight": true
+    },
+    {
+      "rank": 5,
+      "name": "o4-mini",
+      "lab": "OpenAI",
+      "score": 68.33923317784603,
+      "prev_rank": 5,
+      "best_position": 5,
+      "weeks_on_chart": 12,
+      "is_new": false,
+      "is_open_weight": false
+    },
+    {
+      "rank": 6,
+      "name": "o3",
+      "lab": "OpenAI",
+      "score": 64.20895370196877,
+      "prev_rank": 6,
+      "best_position": 6,
+      "weeks_on_chart": 12,
+      "is_new": false,
+      "is_open_weight": false
+    },
+    {
+      "rank": 7,
+      "name": "Grok 3",
+      "lab": "xAI",
+      "score": 49.60808714190838,
+      "prev_rank": 7,
+      "best_position": 7,
+      "weeks_on_chart": 12,
+      "is_new": false,
+      "is_open_weight": false
+    },
+    {
+      "rank": 8,
+      "name": "DeepSeek R1",
+      "lab": "DeepSeek",
+      "score": 46.62191087109509,
+      "prev_rank": 8,
+      "best_position": 8,
+      "weeks_on_chart": 12,
+      "is_new": false,
+      "is_open_weight": true
+    },
+    {
+      "rank": 9,
+      "name": "DeepSeek V3",
+      "lab": "DeepSeek",
+      "score": 42.463846809852576,
+      "prev_rank": 9,
+      "best_position": 9,
+      "weeks_on_chart": 12,
+      "is_new": false,
+      "is_open_weight": true
+    },
+    {
+      "rank": 10,
+      "name": "GPT-5",
+      "lab": "OpenAI",
+      "score": 35.98785600968668,
+      "prev_rank": 10,
+      "best_position": 10,
+      "weeks_on_chart": 12,
+      "is_new": false,
+      "is_open_weight": false
+    },
+    {
+      "rank": 11,
+      "name": "Llama 4 Maverick",
+      "lab": "Meta",
+      "score": 34.37787533787465,
+      "prev_rank": 11,
+      "best_position": 11,
+      "weeks_on_chart": 12,
+      "is_new": false,
+      "is_open_weight": true
+    },
+    {
+      "rank": 12,
+      "name": "Claude 3.5 Sonnet",
+      "lab": "Anthropic",
+      "score": 32.78319457768698,
+      "prev_rank": 12,
+      "best_position": 12,
+      "weeks_on_chart": 12,
+      "is_new": false,
+      "is_open_weight": false
+    },
+    {
+      "rank": 13,
+      "name": "Gemini 1.5 Pro",
+      "lab": "Google DeepMind",
+      "score": 29.40289927779331,
+      "prev_rank": 13,
+      "best_position": 13,
+      "weeks_on_chart": 12,
+      "is_new": false,
+      "is_open_weight": false
+    },
+    {
+      "rank": 14,
+      "name": "Gemini 2.5 Flash",
+      "lab": "Google DeepMind",
+      "score": 23.725253897194104,
+      "prev_rank": 14,
+      "best_position": 14,
+      "weeks_on_chart": 12,
+      "is_new": false,
+      "is_open_weight": false
+    },
+    {
+      "rank": 15,
+      "name": "Gemini 2.0 Flash",
+      "lab": "Google DeepMind",
+      "score": 23.458549228818725,
+      "prev_rank": 15,
+      "best_position": 15,
+      "weeks_on_chart": 12,
+      "is_new": false,
+      "is_open_weight": false
+    },
+    {
+      "rank": 16,
+      "name": "Llama 4 Scout",
+      "lab": "Meta",
+      "score": 17.354604935844755,
+      "prev_rank": 16,
+      "best_position": 16,
+      "weeks_on_chart": 12,
+      "is_new": false,
+      "is_open_weight": true
+    },
+    {
+      "rank": 17,
+      "name": "Claude 3.5 Haiku",
+      "lab": "Anthropic",
+      "score": 3.7023617944313783,
+      "prev_rank": 17,
+      "best_position": 17,
+      "weeks_on_chart": 12,
+      "is_new": false,
+      "is_open_weight": false
+    },
+    {
+      "rank": 18,
+      "name": "GPT-4o",
+      "lab": "OpenAI",
+      "score": 0.0,
+      "prev_rank": 18,
+      "best_position": 18,
+      "weeks_on_chart": 12,
+      "is_new": false,
+      "is_open_weight": false
+    }
+  ]
+}

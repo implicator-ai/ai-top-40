@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI Top 40 Widget Demo</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: #F5F1EB;
+      color: #1A1814;
+      padding: 40px 24px;
+      line-height: 1.5;
+    }
+    .container { max-width: 1200px; margin: 0 auto; }
+    h1 { font-size: 32px; font-weight: 800; margin-bottom: 8px; }
+    .subtitle { font-size: 14px; color: #8A8580; margin-bottom: 48px; }
+    .demo-section { margin-bottom: 64px; }
+    .demo-section h2 { font-size: 20px; font-weight: 700; margin-bottom: 6px; }
+    .demo-section .desc { font-size: 13px; color: #8A8580; margin-bottom: 16px; }
+    .widget-wrapper {
+      background: #fff;
+      border: 1px solid #E8E4DF;
+      border-radius: 8px;
+      padding: 24px;
+      margin-bottom: 12px;
+    }
+    .widget-wrapper.dark-bg {
+      background: #1E1B18;
+      border-color: #3A3530;
+    }
+    .code-block {
+      background: #1A1814;
+      color: #E8E4DF;
+      border-radius: 6px;
+      padding: 16px;
+      font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
+      font-size: 12px;
+      line-height: 1.6;
+      overflow-x: auto;
+      white-space: pre;
+    }
+    .divider { border: none; border-top: 1px solid #E8E4DF; margin: 64px 0; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>AI Top 40</h1>
+    <p class="subtitle">Embeddable widget demo &mdash; all four chart variants</p>
+
+    <!-- All Models -->
+    <div class="demo-section">
+      <h2>All Models</h2>
+      <p class="desc">The full leaderboard, all model types combined.</p>
+      <div class="widget-wrapper">
+        <div data-ai-top-40="all" data-limit="10"></div>
+      </div>
+      <div class="code-block">&lt;div data-ai-top-40="all" data-limit="10"&gt;&lt;/div&gt;
+&lt;script src="https://cdn.jsdelivr.net/gh/implicator-ai/ai-top-40@main/dist/embed.min.js"&gt;&lt;/script&gt;</div>
+    </div>
+
+    <!-- Open Weights -->
+    <div class="demo-section">
+      <h2>Open Weights</h2>
+      <p class="desc">Only open-weight models.</p>
+      <div class="widget-wrapper">
+        <div data-ai-top-40="open" data-limit="10"></div>
+      </div>
+      <div class="code-block">&lt;div data-ai-top-40="open" data-limit="10"&gt;&lt;/div&gt;
+&lt;script src="https://cdn.jsdelivr.net/gh/implicator-ai/ai-top-40@main/dist/embed.min.js"&gt;&lt;/script&gt;</div>
+    </div>
+
+    <!-- Commercial -->
+    <div class="demo-section">
+      <h2>Commercial</h2>
+      <p class="desc">Only commercial (closed) models.</p>
+      <div class="widget-wrapper">
+        <div data-ai-top-40="commercial" data-limit="10"></div>
+      </div>
+      <div class="code-block">&lt;div data-ai-top-40="commercial" data-limit="10"&gt;&lt;/div&gt;
+&lt;script src="https://cdn.jsdelivr.net/gh/implicator-ai/ai-top-40@main/dist/embed.min.js"&gt;&lt;/script&gt;</div>
+    </div>
+
+    <hr class="divider">
+
+    <!-- Combo (3 boards) -->
+    <div class="demo-section">
+      <h2>3-Board Combo</h2>
+      <p class="desc">Open, All, and Commercial side by side. Stacks on mobile.</p>
+      <div class="widget-wrapper">
+        <div data-ai-top-40="combo" data-limit="10"></div>
+      </div>
+      <div class="code-block">&lt;div data-ai-top-40="combo" data-limit="10"&gt;&lt;/div&gt;
+&lt;script src="https://cdn.jsdelivr.net/gh/implicator-ai/ai-top-40@main/dist/embed.min.js"&gt;&lt;/script&gt;</div>
+    </div>
+
+    <hr class="divider">
+
+    <!-- Dark Theme -->
+    <div class="demo-section">
+      <h2>Dark Theme</h2>
+      <p class="desc">Pass <code>data-theme="dark"</code> for dark mode.</p>
+      <div class="widget-wrapper dark-bg">
+        <div data-ai-top-40="all" data-limit="5" data-theme="dark"></div>
+      </div>
+      <div class="code-block">&lt;div data-ai-top-40="all" data-limit="5" data-theme="dark"&gt;&lt;/div&gt;
+&lt;script src="https://cdn.jsdelivr.net/gh/implicator-ai/ai-top-40@main/dist/embed.min.js"&gt;&lt;/script&gt;</div>
+    </div>
+
+  </div>
+
+  <!-- Load local embed.js for testing; override data URL to local file -->
+  <script data-ai-top-40-src="data/latest.json" src="src/embed.js"></script>
+</body>
+</html>
