@@ -49,14 +49,14 @@
     ".dark .ait40-colheader { border-bottom-color: #5A5550; }",
     ".ait40-colheader-rank { width: 32px; flex-shrink: 0; text-align: center; }",
     ".ait40-colheader-change { width: 40px; flex-shrink: 0; text-align: center; }",
-    ".ait40-colheader-model { flex: 1; min-width: 0; }",
+    ".ait40-colheader-model { flex: 1; min-width: 0; padding-left: 4px; }",
     ".ait40-colheader-score { min-width: 36px; text-align: right; flex-shrink: 0; }",
 
     /* Description row below column header */
     ".ait40-coldesc { display: flex; align-items: center; gap: 12px; padding: 4px 0 6px; font-size: 9px; color: #A09890; letter-spacing: 0.02em; }",
     ".ait40-coldesc-rank { width: 32px; flex-shrink: 0; text-align: center; }",
     ".ait40-coldesc-change { width: 40px; flex-shrink: 0; text-align: center; }",
-    ".ait40-coldesc-model { flex: 1; min-width: 0; }",
+    ".ait40-coldesc-model { flex: 1; min-width: 0; padding-left: 4px; }",
     ".ait40-coldesc-score { min-width: 36px; text-align: right; flex-shrink: 0; }",
 
     /* Footer */
