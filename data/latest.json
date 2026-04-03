@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "chart_date": "2026-01-24",
-  "next_update": "2026-01-31",
-  "generated_at": "2026-04-03T00:08:10Z",
+  "chart_date": "2026-01-31",
+  "next_update": "2026-02-07",
+  "generated_at": "2026-04-03T00:08:17Z",
   "attribution": {
     "text": "presented by implicator.ai",
     "url": "https://implicator.ai/ai-top-40/"
@@ -15,7 +15,7 @@
       "score": 100.0,
       "prev_rank": 1,
       "best_position": 1,
-      "weeks_on_chart": 3,
+      "weeks_on_chart": 4,
       "is_new": false,
       "is_open_weight": false
     },
@@ -26,7 +26,7 @@
       "score": 94.0,
       "prev_rank": 2,
       "best_position": 2,
-      "weeks_on_chart": 3,
+      "weeks_on_chart": 4,
       "is_new": false,
       "is_open_weight": false
     },
@@ -37,7 +37,7 @@
       "score": 77.7,
       "prev_rank": 3,
       "best_position": 3,
-      "weeks_on_chart": 3,
+      "weeks_on_chart": 4,
       "is_new": false,
       "is_open_weight": false
     },
@@ -48,7 +48,7 @@
       "score": 71.2,
       "prev_rank": 4,
       "best_position": 4,
-      "weeks_on_chart": 3,
+      "weeks_on_chart": 4,
       "is_new": false,
       "is_open_weight": false
     },
@@ -59,7 +59,7 @@
       "score": 68.6,
       "prev_rank": 5,
       "best_position": 5,
-      "weeks_on_chart": 3,
+      "weeks_on_chart": 4,
       "is_new": false,
       "is_open_weight": true
     },
@@ -70,7 +70,7 @@
       "score": 66.7,
       "prev_rank": 6,
       "best_position": 6,
-      "weeks_on_chart": 3,
+      "weeks_on_chart": 4,
       "is_new": false,
       "is_open_weight": false
     },
@@ -81,7 +81,7 @@
       "score": 64.7,
       "prev_rank": 7,
       "best_position": 7,
-      "weeks_on_chart": 3,
+      "weeks_on_chart": 4,
       "is_new": false,
       "is_open_weight": false
     },
@@ -92,7 +92,7 @@
       "score": 63.4,
       "prev_rank": 8,
       "best_position": 8,
-      "weeks_on_chart": 3,
+      "weeks_on_chart": 4,
       "is_new": false,
       "is_open_weight": false
     },
@@ -103,7 +103,7 @@
       "score": 60.3,
       "prev_rank": 9,
       "best_position": 9,
-      "weeks_on_chart": 3,
+      "weeks_on_chart": 4,
       "is_new": false,
       "is_open_weight": false
     },
@@ -114,7 +114,7 @@
       "score": 59.1,
       "prev_rank": 10,
       "best_position": 10,
-      "weeks_on_chart": 3,
+      "weeks_on_chart": 4,
       "is_new": false,
       "is_open_weight": false
     },
@@ -125,7 +125,7 @@
       "score": 58.9,
       "prev_rank": 11,
       "best_position": 11,
-      "weeks_on_chart": 3,
+      "weeks_on_chart": 4,
       "is_new": false,
       "is_open_weight": false
     },
@@ -136,7 +136,7 @@
       "score": 58.0,
       "prev_rank": 12,
       "best_position": 12,
-      "weeks_on_chart": 3,
+      "weeks_on_chart": 4,
       "is_new": false,
       "is_open_weight": false
     },
@@ -147,7 +147,7 @@
       "score": 57.2,
       "prev_rank": 13,
       "best_position": 13,
-      "weeks_on_chart": 3,
+      "weeks_on_chart": 4,
       "is_new": false,
       "is_open_weight": true
     },
@@ -158,7 +158,7 @@
       "score": 56.5,
       "prev_rank": 14,
       "best_position": 14,
-      "weeks_on_chart": 3,
+      "weeks_on_chart": 4,
       "is_new": false,
       "is_open_weight": false
     },
@@ -169,7 +169,7 @@
       "score": 52.3,
       "prev_rank": 15,
       "best_position": 15,
-      "weeks_on_chart": 3,
+      "weeks_on_chart": 4,
       "is_new": false,
       "is_open_weight": true
     },
@@ -180,7 +180,7 @@
       "score": 52.0,
       "prev_rank": 16,
       "best_position": 16,
-      "weeks_on_chart": 3,
+      "weeks_on_chart": 4,
       "is_new": false,
       "is_open_weight": true
     },
@@ -191,7 +191,7 @@
       "score": 50.5,
       "prev_rank": 17,
       "best_position": 17,
-      "weeks_on_chart": 3,
+      "weeks_on_chart": 4,
       "is_new": false,
       "is_open_weight": false
     },
@@ -202,7 +202,7 @@
       "score": 46.9,
       "prev_rank": 18,
       "best_position": 18,
-      "weeks_on_chart": 3,
+      "weeks_on_chart": 4,
       "is_new": false,
       "is_open_weight": true
     },
@@ -213,7 +213,7 @@
       "score": 45.6,
       "prev_rank": 19,
       "best_position": 19,
-      "weeks_on_chart": 3,
+      "weeks_on_chart": 4,
       "is_new": false,
       "is_open_weight": false
     },
@@ -224,7 +224,7 @@
       "score": 44.9,
       "prev_rank": 20,
       "best_position": 20,
-      "weeks_on_chart": 3,
+      "weeks_on_chart": 4,
       "is_new": false,
       "is_open_weight": true
     },
@@ -235,7 +235,7 @@
       "score": 42.7,
       "prev_rank": 21,
       "best_position": 21,
-      "weeks_on_chart": 3,
+      "weeks_on_chart": 4,
       "is_new": false,
       "is_open_weight": false
     },
@@ -246,7 +246,7 @@
       "score": 41.7,
       "prev_rank": 22,
       "best_position": 22,
-      "weeks_on_chart": 3,
+      "weeks_on_chart": 4,
       "is_new": false,
       "is_open_weight": true
     },
@@ -257,7 +257,7 @@
       "score": 40.3,
       "prev_rank": 23,
       "best_position": 23,
-      "weeks_on_chart": 3,
+      "weeks_on_chart": 4,
       "is_new": false,
       "is_open_weight": false
     },
@@ -268,7 +268,7 @@
       "score": 37.2,
       "prev_rank": 24,
       "best_position": 24,
-      "weeks_on_chart": 3,
+      "weeks_on_chart": 4,
       "is_new": false,
       "is_open_weight": false
     },
@@ -279,7 +279,7 @@
       "score": 36.9,
       "prev_rank": 25,
       "best_position": 25,
-      "weeks_on_chart": 3,
+      "weeks_on_chart": 4,
       "is_new": false,
       "is_open_weight": false
     },
@@ -290,7 +290,7 @@
       "score": 36.9,
       "prev_rank": 26,
       "best_position": 26,
-      "weeks_on_chart": 3,
+      "weeks_on_chart": 4,
       "is_new": false,
       "is_open_weight": false
     },
@@ -301,7 +301,7 @@
       "score": 36.1,
       "prev_rank": 27,
       "best_position": 27,
-      "weeks_on_chart": 3,
+      "weeks_on_chart": 4,
       "is_new": false,
       "is_open_weight": false
     },
@@ -312,7 +312,7 @@
       "score": 35.2,
       "prev_rank": 28,
       "best_position": 28,
-      "weeks_on_chart": 3,
+      "weeks_on_chart": 4,
       "is_new": false,
       "is_open_weight": false
     },
@@ -323,7 +323,7 @@
       "score": 31.0,
       "prev_rank": 29,
       "best_position": 29,
-      "weeks_on_chart": 3,
+      "weeks_on_chart": 4,
       "is_new": false,
       "is_open_weight": false
     },
@@ -334,7 +334,7 @@
       "score": 30.3,
       "prev_rank": 30,
       "best_position": 30,
-      "weeks_on_chart": 3,
+      "weeks_on_chart": 4,
       "is_new": false,
       "is_open_weight": true
     },
@@ -345,7 +345,7 @@
       "score": 28.5,
       "prev_rank": 31,
       "best_position": 31,
-      "weeks_on_chart": 3,
+      "weeks_on_chart": 4,
       "is_new": false,
       "is_open_weight": false
     },
@@ -356,7 +356,7 @@
       "score": 20.4,
       "prev_rank": 32,
       "best_position": 32,
-      "weeks_on_chart": 3,
+      "weeks_on_chart": 4,
       "is_new": false,
       "is_open_weight": false
     },
@@ -367,7 +367,7 @@
       "score": 15.8,
       "prev_rank": 33,
       "best_position": 33,
-      "weeks_on_chart": 3,
+      "weeks_on_chart": 4,
       "is_new": false,
       "is_open_weight": false
     },
@@ -378,7 +378,7 @@
       "score": 15.3,
       "prev_rank": 34,
       "best_position": 34,
-      "weeks_on_chart": 3,
+      "weeks_on_chart": 4,
       "is_new": false,
       "is_open_weight": true
     },
@@ -389,7 +389,7 @@
       "score": 8.5,
       "prev_rank": 35,
       "best_position": 35,
-      "weeks_on_chart": 3,
+      "weeks_on_chart": 4,
       "is_new": false,
       "is_open_weight": true
     },
@@ -400,7 +400,7 @@
       "score": 0.0,
       "prev_rank": 36,
       "best_position": 36,
-      "weeks_on_chart": 3,
+      "weeks_on_chart": 4,
       "is_new": false,
       "is_open_weight": true
     }
