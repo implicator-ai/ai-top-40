@@ -44,6 +44,14 @@
     ".ait40-score { font-size: 14px; font-weight: 700; text-align: right; flex-shrink: 0; min-width: 36px; }",
     ".ait40-score.top { color: #E8372D; }",
 
+    /* Column header */
+    ".ait40-colheader { display: flex; align-items: center; gap: 12px; padding: 0 0 6px; margin-bottom: 2px; border-bottom: 2px solid #D4CFC7; font-size: 10px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; color: #8A8580; }",
+    ".dark .ait40-colheader { border-bottom-color: #5A5550; }",
+    ".ait40-colheader-rank { width: 32px; flex-shrink: 0; text-align: center; }",
+    ".ait40-colheader-change { width: 40px; flex-shrink: 0; text-align: center; }",
+    ".ait40-colheader-model { flex: 1; min-width: 0; }",
+    ".ait40-colheader-score { min-width: 36px; text-align: right; flex-shrink: 0; }",
+
     /* Footer */
     ".ait40-footer { margin-top: 12px; padding-top: 10px; border-top: 1px solid #E8E4DF; text-align: right; }",
     ".dark .ait40-footer { border-top-color: #3A3530; }",
@@ -88,6 +96,13 @@
     if (chartDate)
       html += '<span class="ait40-date">' + escapeHtml(chartDate) + "</span>";
     html += "</div>";
+
+    html += '<div class="ait40-colheader">';
+    html += '<span class="ait40-colheader-rank">#</span>';
+    html += '<span class="ait40-colheader-change"></span>';
+    html += '<span class="ait40-colheader-model">Model</span>';
+    html += '<span class="ait40-colheader-score">Score</span>';
+    html += '</div>';
 
     var items = models.slice(0, limit);
     html += '<ol class="ait40-list">';
