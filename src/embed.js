@@ -145,7 +145,7 @@
 
     html += '<div class="ait40-footer">';
     html +=
-      '<a href="https://implicator.ai/ai-top-40/" target="_blank" rel="noopener">presented by implicator.ai</a>';
+      '<a href="https://implicator.ai" target="_blank" rel="noopener">presented by implicator.ai</a>';
     html += "</div>";
     html += "</div>";
     return html;
