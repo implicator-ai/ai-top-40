@@ -95,7 +95,7 @@
     return '<span class="ait40-change same">&mdash;</span>';
   }
 
-  function renderBoard(models, title, chartDate, limit, isDark) {
+  function renderBoard(models, title, chartDate, limit, isDark, skipFooter) {
     var themeClass = isDark ? "ait40-wrap dark" : "ait40-wrap";
     var html = '<div class="' + themeClass + '">';
     html += '<div class="ait40-header">';
@@ -143,10 +143,12 @@
     }
     html += "</ol>";
 
-    html += '<div class="ait40-footer">';
-    html +=
-      '<a href="https://implicator.ai" target="_blank" rel="noopener">presented by implicator.ai</a>';
-    html += "</div>";
+    if (!skipFooter) {
+      html += '<div class="ait40-footer">';
+      html +=
+        '<a href="https://implicator.ai" target="_blank" rel="noopener">presented by implicator.ai</a>';
+      html += "</div>";
+    }
     html += "</div>";
     return html;
   }
@@ -266,9 +268,12 @@
 
         var html = '<div class="' + themeClass + '">';
         html += '<div class="ait40-combo">';
-        html += '<div class="ait40-board">' + renderBoard(openModels, "Open Weights", chartDate, limit, isDark) + "</div>";
-        html += '<div class="ait40-board">' + renderBoard(allModels, "All Models", chartDate, limit, isDark) + "</div>";
-        html += '<div class="ait40-board">' + renderBoard(commercialModels, "Commercial", chartDate, limit, isDark) + "</div>";
+        html += '<div class="ait40-board">' + renderBoard(openModels, "Open Weights", chartDate, limit, isDark, true) + "</div>";
+        html += '<div class="ait40-board">' + renderBoard(allModels, "All Models", chartDate, limit, isDark, true) + "</div>";
+        html += '<div class="ait40-board">' + renderBoard(commercialModels, "Commercial", chartDate, limit, isDark, true) + "</div>";
+        html += "</div>";
+        html += '<div class="ait40-footer">';
+        html += '<a href="https://implicator.ai" target="_blank" rel="noopener">presented by implicator.ai</a>';
         html += "</div>";
         html += "</div>";
         container.innerHTML = html;
