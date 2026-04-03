@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "chart_date": "2026-01-10",
-  "next_update": "2026-01-17",
-  "generated_at": "2026-04-03T00:19:22Z",
+  "chart_date": "2026-01-17",
+  "next_update": "2026-01-24",
+  "generated_at": "2026-04-03T00:19:28Z",
   "attribution": {
     "text": "presented by implicator.ai",
     "url": "https://implicator.ai/ai-top-40/"
@@ -13,10 +13,10 @@
       "name": "GPT-5",
       "lab": "OpenAI",
       "score": 100.0,
-      "prev_rank": null,
+      "prev_rank": 1,
       "best_position": 1,
-      "weeks_on_chart": 1,
-      "is_new": true,
+      "weeks_on_chart": 2,
+      "is_new": false,
       "is_open_weight": false
     },
     {
@@ -24,10 +24,10 @@
       "name": "Claude Opus 4.6",
       "lab": "Anthropic",
       "score": 97.0,
-      "prev_rank": null,
+      "prev_rank": 2,
       "best_position": 2,
-      "weeks_on_chart": 1,
-      "is_new": true,
+      "weeks_on_chart": 2,
+      "is_new": false,
       "is_open_weight": false
     },
     {
@@ -35,10 +35,10 @@
       "name": "Grok 4",
       "lab": "xAI",
       "score": 89.5,
-      "prev_rank": null,
+      "prev_rank": 3,
       "best_position": 3,
-      "weeks_on_chart": 1,
-      "is_new": true,
+      "weeks_on_chart": 2,
+      "is_new": false,
       "is_open_weight": false
     },
     {
@@ -46,10 +46,10 @@
       "name": "Gemini 3 Pro",
       "lab": "Google DeepMind",
       "score": 87.6,
-      "prev_rank": null,
+      "prev_rank": 4,
       "best_position": 4,
-      "weeks_on_chart": 1,
-      "is_new": true,
+      "weeks_on_chart": 2,
+      "is_new": false,
       "is_open_weight": false
     },
     {
@@ -57,10 +57,10 @@
       "name": "Kimi K2",
       "lab": "Moonshot AI",
       "score": 74.8,
-      "prev_rank": null,
+      "prev_rank": 5,
       "best_position": 5,
-      "weeks_on_chart": 1,
-      "is_new": true,
+      "weeks_on_chart": 2,
+      "is_new": false,
       "is_open_weight": false
     },
     {
@@ -68,10 +68,10 @@
       "name": "o4-mini",
       "lab": "OpenAI",
       "score": 73.6,
-      "prev_rank": null,
+      "prev_rank": 6,
       "best_position": 6,
-      "weeks_on_chart": 1,
-      "is_new": true,
+      "weeks_on_chart": 2,
+      "is_new": false,
       "is_open_weight": false
     },
     {
@@ -79,10 +79,10 @@
       "name": "Qwen 3 235B",
       "lab": "Alibaba",
       "score": 71.7,
-      "prev_rank": null,
+      "prev_rank": 7,
       "best_position": 7,
-      "weeks_on_chart": 1,
-      "is_new": true,
+      "weeks_on_chart": 2,
+      "is_new": false,
       "is_open_weight": true
     },
     {
@@ -90,10 +90,10 @@
       "name": "o3",
       "lab": "OpenAI",
       "score": 70.7,
-      "prev_rank": null,
+      "prev_rank": 8,
       "best_position": 8,
-      "weeks_on_chart": 1,
-      "is_new": true,
+      "weeks_on_chart": 2,
+      "is_new": false,
       "is_open_weight": false
     },
     {
@@ -101,10 +101,10 @@
       "name": "Gemini 2.5 Pro",
       "lab": "Google DeepMind",
       "score": 68.0,
-      "prev_rank": null,
+      "prev_rank": 9,
       "best_position": 9,
-      "weeks_on_chart": 1,
-      "is_new": true,
+      "weeks_on_chart": 2,
+      "is_new": false,
       "is_open_weight": false
     },
     {
@@ -112,10 +112,10 @@
       "name": "GPT-4.1",
       "lab": "OpenAI",
       "score": 66.6,
-      "prev_rank": null,
+      "prev_rank": 10,
       "best_position": 10,
-      "weeks_on_chart": 1,
-      "is_new": true,
+      "weeks_on_chart": 2,
+      "is_new": false,
       "is_open_weight": false
     },
     {
@@ -123,10 +123,10 @@
       "name": "Claude 3.7 Sonnet",
       "lab": "Anthropic",
       "score": 64.0,
-      "prev_rank": null,
+      "prev_rank": 11,
       "best_position": 11,
-      "weeks_on_chart": 1,
-      "is_new": true,
+      "weeks_on_chart": 2,
+      "is_new": false,
       "is_open_weight": false
     },
     {
@@ -134,10 +134,10 @@
       "name": "GLM-4.5",
       "lab": "Zhipu AI",
       "score": 63.9,
-      "prev_rank": null,
+      "prev_rank": 12,
       "best_position": 12,
-      "weeks_on_chart": 1,
-      "is_new": true,
+      "weeks_on_chart": 2,
+      "is_new": false,
       "is_open_weight": false
     },
     {
@@ -145,10 +145,10 @@
       "name": "Nemotron",
       "lab": "Nvidia",
       "score": 62.8,
-      "prev_rank": null,
+      "prev_rank": 13,
       "best_position": 13,
-      "weeks_on_chart": 1,
-      "is_new": true,
+      "weeks_on_chart": 2,
+      "is_new": false,
       "is_open_weight": true
     },
     {
@@ -156,10 +156,10 @@
       "name": "Claude 4.5 Haiku",
       "lab": "Anthropic",
       "score": 61.4,
-      "prev_rank": null,
+      "prev_rank": 14,
       "best_position": 14,
-      "weeks_on_chart": 1,
-      "is_new": true,
+      "weeks_on_chart": 2,
+      "is_new": false,
       "is_open_weight": false
     },
     {
@@ -167,10 +167,10 @@
       "name": "DeepSeek R1",
       "lab": "DeepSeek",
       "score": 60.0,
-      "prev_rank": null,
+      "prev_rank": 15,
       "best_position": 15,
-      "weeks_on_chart": 1,
-      "is_new": true,
+      "weeks_on_chart": 2,
+      "is_new": false,
       "is_open_weight": true
     },
     {
@@ -178,10 +178,10 @@
       "name": "Grok 3",
       "lab": "xAI",
       "score": 59.4,
-      "prev_rank": null,
+      "prev_rank": 16,
       "best_position": 16,
-      "weeks_on_chart": 1,
-      "is_new": true,
+      "weeks_on_chart": 2,
+      "is_new": false,
       "is_open_weight": false
     },
     {
@@ -189,10 +189,10 @@
       "name": "Qwen 3-Next",
       "lab": "Alibaba",
       "score": 58.2,
-      "prev_rank": null,
+      "prev_rank": 17,
       "best_position": 17,
-      "weeks_on_chart": 1,
-      "is_new": true,
+      "weeks_on_chart": 2,
+      "is_new": false,
       "is_open_weight": true
     },
     {
@@ -200,10 +200,10 @@
       "name": "DeepSeek V3",
       "lab": "DeepSeek",
       "score": 56.5,
-      "prev_rank": null,
+      "prev_rank": 18,
       "best_position": 18,
-      "weeks_on_chart": 1,
-      "is_new": true,
+      "weeks_on_chart": 2,
+      "is_new": false,
       "is_open_weight": true
     },
     {
@@ -211,10 +211,10 @@
       "name": "Claude 3.5 Sonnet",
       "lab": "Anthropic",
       "score": 51.1,
-      "prev_rank": null,
+      "prev_rank": 19,
       "best_position": 19,
-      "weeks_on_chart": 1,
-      "is_new": true,
+      "weeks_on_chart": 2,
+      "is_new": false,
       "is_open_weight": false
     },
     {
@@ -222,10 +222,10 @@
       "name": "Gemini 2.0 Flash",
       "lab": "Google DeepMind",
       "score": 50.3,
-      "prev_rank": null,
+      "prev_rank": 20,
       "best_position": 20,
-      "weeks_on_chart": 1,
-      "is_new": true,
+      "weeks_on_chart": 2,
+      "is_new": false,
       "is_open_weight": false
     },
     {
@@ -233,10 +233,10 @@
       "name": "GPT-4.1 Mini",
       "lab": "OpenAI",
       "score": 49.4,
-      "prev_rank": null,
+      "prev_rank": 21,
       "best_position": 21,
-      "weeks_on_chart": 1,
-      "is_new": true,
+      "weeks_on_chart": 2,
+      "is_new": false,
       "is_open_weight": false
     },
     {
@@ -244,10 +244,10 @@
       "name": "Gemini 1.5 Pro",
       "lab": "Google DeepMind",
       "score": 48.6,
-      "prev_rank": null,
+      "prev_rank": 22,
       "best_position": 22,
-      "weeks_on_chart": 1,
-      "is_new": true,
+      "weeks_on_chart": 2,
+      "is_new": false,
       "is_open_weight": false
     },
     {
@@ -255,10 +255,10 @@
       "name": "Mistral Large",
       "lab": "Mistral AI",
       "score": 46.2,
-      "prev_rank": null,
+      "prev_rank": 23,
       "best_position": 23,
-      "weeks_on_chart": 1,
-      "is_new": true,
+      "weeks_on_chart": 2,
+      "is_new": false,
       "is_open_weight": true
     },
     {
@@ -266,10 +266,10 @@
       "name": "GLM-4",
       "lab": "Zhipu AI",
       "score": 42.6,
-      "prev_rank": null,
+      "prev_rank": 24,
       "best_position": 24,
-      "weeks_on_chart": 1,
-      "is_new": true,
+      "weeks_on_chart": 2,
+      "is_new": false,
       "is_open_weight": false
     },
     {
@@ -277,10 +277,10 @@
       "name": "GPT-4o",
       "lab": "OpenAI",
       "score": 40.7,
-      "prev_rank": null,
+      "prev_rank": 25,
       "best_position": 25,
-      "weeks_on_chart": 1,
-      "is_new": true,
+      "weeks_on_chart": 2,
+      "is_new": false,
       "is_open_weight": false
     },
     {
@@ -288,10 +288,10 @@
       "name": "Llama 4 Maverick",
       "lab": "Meta",
       "score": 40.4,
-      "prev_rank": null,
+      "prev_rank": 26,
       "best_position": 26,
-      "weeks_on_chart": 1,
-      "is_new": true,
+      "weeks_on_chart": 2,
+      "is_new": false,
       "is_open_weight": true
     },
     {
@@ -299,10 +299,10 @@
       "name": "Nova Premier",
       "lab": "Amazon",
       "score": 39.5,
-      "prev_rank": null,
+      "prev_rank": 27,
       "best_position": 27,
-      "weeks_on_chart": 1,
-      "is_new": true,
+      "weeks_on_chart": 2,
+      "is_new": false,
       "is_open_weight": false
     },
     {
@@ -310,10 +310,10 @@
       "name": "Gemini 2.5 Flash",
       "lab": "Google DeepMind",
       "score": 38.3,
-      "prev_rank": null,
+      "prev_rank": 28,
       "best_position": 28,
-      "weeks_on_chart": 1,
-      "is_new": true,
+      "weeks_on_chart": 2,
+      "is_new": false,
       "is_open_weight": false
     },
     {
@@ -321,10 +321,10 @@
       "name": "GPT-4.1 Nano",
       "lab": "OpenAI",
       "score": 37.0,
-      "prev_rank": null,
+      "prev_rank": 29,
       "best_position": 29,
-      "weeks_on_chart": 1,
-      "is_new": true,
+      "weeks_on_chart": 2,
+      "is_new": false,
       "is_open_weight": false
     },
     {
@@ -332,10 +332,10 @@
       "name": "Claude 3.5 Haiku",
       "lab": "Anthropic",
       "score": 29.8,
-      "prev_rank": null,
+      "prev_rank": 30,
       "best_position": 30,
-      "weeks_on_chart": 1,
-      "is_new": true,
+      "weeks_on_chart": 2,
+      "is_new": false,
       "is_open_weight": false
     },
     {
@@ -343,10 +343,10 @@
       "name": "Llama 4 Scout",
       "lab": "Meta",
       "score": 29.4,
-      "prev_rank": null,
+      "prev_rank": 31,
       "best_position": 31,
-      "weeks_on_chart": 1,
-      "is_new": true,
+      "weeks_on_chart": 2,
+      "is_new": false,
       "is_open_weight": true
     },
     {
@@ -354,10 +354,10 @@
       "name": "Nova Lite",
       "lab": "Amazon",
       "score": 27.0,
-      "prev_rank": null,
+      "prev_rank": 32,
       "best_position": 32,
-      "weeks_on_chart": 1,
-      "is_new": true,
+      "weeks_on_chart": 2,
+      "is_new": false,
       "is_open_weight": false
     },
     {
@@ -365,10 +365,10 @@
       "name": "Mixtral 8x22B",
       "lab": "Mistral AI",
       "score": 16.5,
-      "prev_rank": null,
+      "prev_rank": 33,
       "best_position": 33,
-      "weeks_on_chart": 1,
-      "is_new": true,
+      "weeks_on_chart": 2,
+      "is_new": false,
       "is_open_weight": true
     },
     {
@@ -376,10 +376,10 @@
       "name": "Nova Micro",
       "lab": "Amazon",
       "score": 16.3,
-      "prev_rank": null,
+      "prev_rank": 34,
       "best_position": 34,
-      "weeks_on_chart": 1,
-      "is_new": true,
+      "weeks_on_chart": 2,
+      "is_new": false,
       "is_open_weight": false
     },
     {
@@ -387,10 +387,10 @@
       "name": "Granite 4.0 Micro",
       "lab": "IBM",
       "score": 10.7,
-      "prev_rank": null,
+      "prev_rank": 35,
       "best_position": 35,
-      "weeks_on_chart": 1,
-      "is_new": true,
+      "weeks_on_chart": 2,
+      "is_new": false,
       "is_open_weight": true
     },
     {
@@ -398,10 +398,10 @@
       "name": "Mixtral 8x7B",
       "lab": "Mistral AI",
       "score": 0.0,
-      "prev_rank": null,
+      "prev_rank": 36,
       "best_position": 36,
-      "weeks_on_chart": 1,
-      "is_new": true,
+      "weeks_on_chart": 2,
+      "is_new": false,
       "is_open_weight": true
     }
   ]
