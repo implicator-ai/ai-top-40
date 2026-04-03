@@ -52,6 +52,13 @@
     ".ait40-colheader-model { flex: 1; min-width: 0; }",
     ".ait40-colheader-score { min-width: 36px; text-align: right; flex-shrink: 0; }",
 
+    /* Description row below column header */
+    ".ait40-coldesc { display: flex; align-items: center; gap: 12px; padding: 4px 0 6px; font-size: 9px; color: #A09890; letter-spacing: 0.02em; }",
+    ".ait40-coldesc-rank { width: 32px; flex-shrink: 0; text-align: center; }",
+    ".ait40-coldesc-change { width: 40px; flex-shrink: 0; text-align: center; }",
+    ".ait40-coldesc-model { flex: 1; min-width: 0; }",
+    ".ait40-coldesc-score { min-width: 36px; text-align: right; flex-shrink: 0; }",
+
     /* Footer */
     ".ait40-footer { margin-top: 12px; padding-top: 10px; border-top: 1px solid #E8E4DF; text-align: right; }",
     ".dark .ait40-footer { border-top-color: #3A3530; }",
@@ -99,9 +106,15 @@
 
     html += '<div class="ait40-colheader">';
     html += '<span class="ait40-colheader-rank">#</span>';
-    html += '<span class="ait40-colheader-change"></span>';
+    html += '<span class="ait40-colheader-change">\u25B2\u25BC</span>';
     html += '<span class="ait40-colheader-model">Model</span>';
     html += '<span class="ait40-colheader-score">Score</span>';
+    html += '</div>';
+    html += '<div class="ait40-coldesc">';
+    html += '<span class="ait40-coldesc-rank">Rank</span>';
+    html += '<span class="ait40-coldesc-change">Change</span>';
+    html += '<span class="ait40-coldesc-model">Name &middot; Lab</span>';
+    html += '<span class="ait40-coldesc-score">0\u2013100</span>';
     html += '</div>';
 
     var items = models.slice(0, limit);
