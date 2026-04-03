@@ -2,7 +2,7 @@
   "version": 1,
   "chart_date": "2026-02-28",
   "next_update": "2026-03-07",
-  "generated_at": "2026-04-03T00:20:09Z",
+  "generated_at": "2026-04-03T00:26:44Z",
   "attribution": {
     "text": "presented by implicator.ai",
     "url": "https://implicator.ai/ai-top-40/"
@@ -10,7 +10,7 @@
   "models": [
     {
       "rank": 1,
-      "name": "GPT-5",
+      "name": "GPT-5.3",
       "lab": "OpenAI",
       "score": 100.0,
       "prev_rank": 1,
