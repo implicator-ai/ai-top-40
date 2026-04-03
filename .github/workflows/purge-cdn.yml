@@ -1,7 +1,7 @@
 name: Purge jsDelivr Cache
 on:
   push:
-    paths: ['data/**']
+    paths: ['data/**', 'dist/**']
 jobs:
   purge:
     runs-on: ubuntu-latest
@@ -9,4 +9,5 @@ jobs:
       - name: Purge jsDelivr cache
         run: |
           curl -s "https://purge.jsdelivr.net/gh/implicator-ai/ai-top-40@main/data/latest.json"
+          curl -s "https://purge.jsdelivr.net/gh/implicator-ai/ai-top-40@main/dist/embed.min.js"
           echo "Cache purged"
